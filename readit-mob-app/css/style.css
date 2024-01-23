@@ -29,7 +29,7 @@ a:hover{color:white}
     background-repeat: no-repeat;
     padding-top: 16%;
     padding-bottom: 2%;
-	margin-top:-194px
+	margin-top:-416px
 }
 
 
@@ -44,5 +44,5 @@ a:hover{color:white}
     margin: 28px 0 0;
     padding: 20px 0 0 0;
 }
-
-
+.h-100{height: 100%}
+.m{margin-top: 250px}
