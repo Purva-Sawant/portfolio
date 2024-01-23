@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.portfolio-item .caption .caption-content h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.portfolio-item .caption .caption-content p {
+    font-weight: 300;
+    font-size: 26px;
+}
+.nav-bg{background-color:rgba(44,123,136, 0.6)}
+.footer{background: linear-gradient(to top left, #2c7b88 0%, #329b76 100%);}
+a{color:white; font-size:20px}
+a:hover {color:#212529;}
+.line2{background-color:#f3f3f3; width:150px; height:3px}
+h4{
+    font-weight: 400;
+}
+h2{font-weight:600}
+
+.img-thumbnail{border: 1px solid #2d7b87 !important;}
+
+.bg-light{background-color:#f0f1f0!important}
+

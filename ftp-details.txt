@@ -1,0 +1,9 @@
+FTP details (Filezilla)
+HostName: webhostdesign.co.in
+Username: purvasawant
+Password: G@dg4feF9fT
+
+Cpanel Details:
+https://cloudmonsterservers.com:2083
+Username: purvasawant
+Password: G@dg4feF9fT

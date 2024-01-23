@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+.portfolio-item .caption .caption-content h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.portfolio-item .caption .caption-content p {
+    font-weight: 300;
+    font-size: 26px;
+}
+.nav-bg{background-color:rgba(44,123,136, 0.6)}
+.footer{background: linear-gradient(to top left, #2c7b88 0%, #329b76 100%);}
+a{color:white; font-size:20px}
+a:hover {color:#212529;}
+.line2{background-color:#f3f3f3; width:150px; height:3px}
+h4{
+    font-weight: 400;
+}
+h2{font-weight:600}
+
+.img-thumbnail{border: 1px solid #2d7b87 !important;}
+
+.bg-light{background-color:#f0f1f0!important}
+
+.footer-icon img {
+    width: 10%;
+    height: 100%;    margin-right: 2%;
+}
+.footer a:hover{color:#fff; text-decoration:none}
+.copyright {
+    border-top: 1px solid;
+    margin: 28px 0 0;
+    padding: 20px 0 0 0;
+}
+
+
+.ml7 {
+  position: relative;
+  font-weight: 900;
+  font-size: 3.7em;
+}
+.ml7 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml7 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+.navbar-nav .nav-item{margin-right: 18px}
+.navbar-nav .nav-item:last-child{margin-right: 0px}
+
+@media only screen and (max-width: 860px){
+	.footer .center{margin:0 auto}
+}
+@media only screen and (max-width: 640px){
+.footer-icon img {
+    width: 7%;
+}
+.footer .center{margin:0 auto}
+}
+@media only screen and (max-width: 480px){
+h1 .text-wrapper .letters{font-size: 2.5rem}
+.portfolio-item .caption .caption-content h2 {
+    font-size: 28px;
+}
+.portfolio-item .caption .caption-content p {
+    font-size: 26px;
+}	
+.dwn-btn{font-size:1.5rem}
+}
+@media only screen and (max-width: 360px){
+h1 .text-wrapper .letters{font-size: 3rem}	
+}
+@media only screen and (max-width: 360px){
+h1 .text-wrapper .letters{font-size: 40px}
+.skill-box{margin-bottom:40px}	
+.portfolio-item .caption .caption-content h2 {
+    font-size: 26px;
+}
+.portfolio-item .caption .caption-content p {
+    font-size: 24px;
+}
+}
